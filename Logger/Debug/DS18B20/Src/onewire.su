@@ -1,0 +1,4 @@
+../DS18B20/Src/onewire.c:24:13:SetBaudrate	288	static
+../DS18B20/Src/onewire.c:64:9:OneWire_ProcessBit	24	static
+../DS18B20/Src/onewire.c:83:9:OneWire_ProcessByte	24	static
+../DS18B20/Src/onewire.c:108:16:OneWire_Reset	24	static

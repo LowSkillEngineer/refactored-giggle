@@ -1,0 +1,13 @@
+../DS18B20/Src/ds18b20.c:33:16:CalculateChecksum	24	static
+../DS18B20/Src/ds18b20.c:55:23:ExecuteCommand	40	static
+../DS18B20/Src/ds18b20.c:82:13:WaitForConversionFinished	24	static
+../DS18B20/Src/ds18b20.c:90:16:DS18B20_ConvertT	24	static
+../DS18B20/Src/ds18b20.c:132:16:DS18B20_ReadScratchpad	32	static
+../DS18B20/Src/ds18b20.c:186:16:DS18B20_WriteScratchpad	24	static
+../DS18B20/Src/ds18b20.c:203:16:DS18B20_InitializationCommand	24	static
+../DS18B20/Src/ds18b20.c:220:16:DS18B20_ReadRom	32	static
+../DS18B20/Src/ds18b20.c:238:16:DS18B20_SkipRom	24	static
+../DS18B20/Src/ds18b20.c:251:6:DS18B20_Init	16	static
+../DS18B20/Src/ds18b20.c:258:7:adc_to_pH	24	static
+../DS18B20/Src/ds18b20.c:271:7:adc_to_turbidity	40	static
+../DS18B20/Src/ds18b20.c:286:6:adc_on	16	static
